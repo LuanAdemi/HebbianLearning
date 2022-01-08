@@ -1,4 +1,6 @@
 # HebbianLearning
+See https://proceedings.neurips.cc/paper/2020/file/ee23e7ad9b473ad072d57aaa9b2a5222-Paper.pdf
+
 Recent research suggests that our brain doesn't operate based on a global update rule, as proposed with the gradient descent algorithm, but on a "simple" local update rule. Thus comes the urge to find new and biologically more accurate training mechanisms.
 
 One approach, which I will implement in this notebook, is based on a postulate from Donald Hebb in his book The Organization of Behavior, realeased in 1949. 
